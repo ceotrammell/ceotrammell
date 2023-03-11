@@ -12,4 +12,4 @@ I currently work at PGM of Texas where I manage multiple entities involving soft
 *   🧠  I dabble with Angular, React, Vue, Node.JS, C#, .NET and Microsoft SQL
 *   🤝  Open to collaborating on projects utilizing Angular framework, Ionic framework or Node.JS
 
-[![Kyle Trammell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceotrammell&show_icons=true&theme=transparent&count_private=true)
+![Kyle Trammell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceotrammell&show_icons=true&theme=transparent&count_private=true)
