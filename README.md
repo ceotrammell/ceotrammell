@@ -17,7 +17,7 @@ I currently work at PGM of Texas where I manage multiple entities involving soft
   <img height="180em" align="center"  src="https://github-readme-stats-eta-seven-89.vercel.app/api?username=ceotrammell&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&layout=compact&)" />
 </a>
 <a href="https://github.com/ceotrammell">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceotrammell&langs_count=8&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&)" />
+  <img height="180em" align="center" src="https://github-readme-stats-eta-seven-89.vercel.app/api/top-langs/?username=ceotrammell&langs_count=8&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
 
 ## Skills
