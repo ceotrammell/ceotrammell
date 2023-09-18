@@ -9,7 +9,7 @@ I currently work at PGM of Texas where I manage multiple entities involving soft
 
 *   🌍  I am based in Austin, TX
 *   ✉️  You can contact me at [ceotrammell@icloud.com](mailto:ceotrammell@icloud.com)
-*   🚀  I currently am working on [Mathema](http://github.com/ceotrammell/mathema#readme) & [Ionic Pick](https://github.com/ceotrammell/ionic-pick#readme)
+*   🚀  Contribute to Ionic Framework
 *   🧠  I dabble with Angular, React, Vue, Node.JS, C#, .NET and Microsoft SQL
 *   🤝  Open to collaborating on projects utilizing Angular framework, Ionic framework or Node.JS
 
