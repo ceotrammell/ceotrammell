@@ -5,7 +5,7 @@ Hello, My name is Kyle Trammell
 Sys Admin & Software Developer
 ------------------------------
 
-Experience managing multiple entities involving software development, networking, web development & servers. Currently studying & implementing a wide variety of technologies used in my daily workflow. Such as C#, .Net, Angular, SQL, Azure stacks, Windows Servers, Linux stacks and Microsoft Exchange. As well, I am progressing on my bachelors of science in computer science.
+Experience managing multiple entities involving software development, networking, web development & servers. Currently studying & implementing a wide variety of technologies used in my daily workflow. Such as C#, .Net, Angular, React, SQL, Azure stacks, Windows Servers, Linux stacks and Microsoft Exchange. As well, I am progressing on my bachelors of science in computer science.
 
 *   🌍  I am based in Austin, TX
 *   ✉️  You can contact me at [ceotrammell@icloud.com](mailto:ceotrammell@icloud.com)
