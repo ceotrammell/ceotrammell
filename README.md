@@ -5,7 +5,7 @@ Hello, My name is Kyle Trammell
 Sys Admin & Software Developer
 ------------------------------
 
-Experience managing multiple entities involving software development, networking, web development & servers. Currently studying & implementing a wide variety of technologies used in my daily workflow. Such as C#, .Net, Angular, React, SQL, Azure stacks, Windows Servers, Linux stacks and Microsoft Exchange. As well, I am progressing on my bachelors of science in computer science.
+Experienced Software Engineer with 7+ years developing enterprise-scale applications and managing cross-platform systems. Proven track record of building high-performance mobile and web applications using Angular, React, and Ionic, while architecting robust backend solutions with C#/.NET and Azure cloud services. Successfully engineered real-time inventory management systems integrating live market data, automated CI/CD pipelines reducing deployment time, and optimized database performance through advanced SQL procedures. Skilled in full-stack development, API design, and Agile methodologies with experience collaborating in international teams. Currently pursuing a Bachelor's degree in Computer Science at Texas State University while maintaining hands-on expertise across modern development frameworks, cloud platforms, and system administration. Passionate about creating efficient, scalable solutions and contributing to open-source projects focused on security analysis and educational tools.
 
 *   🌍  I am based in Austin, TX
 *   ✉️  You can contact me at [ceotrammell@icloud.com](mailto:ceotrammell@icloud.com)
